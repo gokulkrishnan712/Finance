@@ -26,6 +26,6 @@ public class AdminDetails {
 	private String userName;
 	private String password;
 	private String email;
-	private long contactNumber;
+	private Long contactNumber;
 	private Instant createdDate;
 }
